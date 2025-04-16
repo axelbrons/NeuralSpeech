@@ -1,2 +1,2 @@
-# neuralSpeech
+# Neural Speech
 Projet Neural Network
