@@ -1,2 +1,2 @@
 # Les ressources intéressantes
-(Cours pdf par exemple)
+Le cahier des charge ou cours pdf par exemple
