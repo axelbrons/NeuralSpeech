@@ -13,7 +13,7 @@
 
 #define MFCC_SIZE 13
 #define DCT_MFCC_SIZE 6
-#define NUM_RECORDINGS 165
+#define NUM_RECORDINGS 55
 #define PAUSE_BETWEEN_RECORDINGS_MS 500
 
 volatile bool isRecording = false;
