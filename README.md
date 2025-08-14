@@ -33,9 +33,10 @@ Ce projet s'inscrit dans le cadre d'un travail académique en électronique et i
 ## Résultats et performances
 
 - **Précision du modèle** : 98.46% sur les données de test
+![Courbes de loss](docs/schemas/loss_2.png)
 - **Temps de détection** : ~3 secondes par mot
 - **Visualisation des MFCC** :
-  ![Visualisation MFCC](Rapport/images/rouge2.png)
+![Visualisation MFCC](docs/images/rouge1.jpeg)
 
 > *Exemple de prédiction :*
 > | Mot testé | Bleu   | Rouge  | Vert   | Erreur  |
