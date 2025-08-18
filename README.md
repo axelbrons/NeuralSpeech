@@ -33,7 +33,6 @@ Ce projet s'inscrit dans le cadre d'un travail académique en électronique et i
 ## Résultats et performances
 
 - **Précision du modèle** : 98.46% sur les données de test
-![Courbes de loss](docs/schemas/loss_2.png)
 - **Temps de détection** : ~3 secondes par mot
 - **Visualisation des MFCC** :
 ![Visualisation MFCC](docs/images/rouge1.jpeg)
@@ -46,6 +45,9 @@ Ce projet s'inscrit dans le cadre d'un travail académique en électronique et i
 > | Chocolat  | 0.0034 | 0.1284 | 0.0532 | 0.8150  |
 
 ---
+
+Courbes d'apprentissage du réseau de neurones :
+![Courbes de loss](docs/schemas/loss_2.png)
 
 ## Installation et utilisation
 
